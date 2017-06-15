@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "PurityTeste",
+    "name": "NoneAutomacao",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -9,7 +9,11 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 38,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
